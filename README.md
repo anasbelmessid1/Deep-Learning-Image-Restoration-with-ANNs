@@ -1,4 +1,5 @@
 # Image-Restoration
+## Please refer to the PDF of the Project to understand better
 
 ## Project Overview
 This project focuses on image restoration using advanced deep learning techniques. The main goal is to enhance and restore the quality of degraded images through the implementation of state-of-the-art deep learning models. The project was developed as part of an academic requirement at the University Euromed of Fez.
