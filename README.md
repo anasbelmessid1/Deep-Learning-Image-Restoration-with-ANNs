@@ -21,6 +21,10 @@ The project introduces robust image denoising models such as DnCNN (Deep Convolu
 ## Acknowledgments
 We express our sincere gratitude to our supervisor, Dr. Alae Ammour, for his invaluable support throughout the project. His expertise, patience, and guidance have been instrumental in our success.
 
+## Results of the project
+![Before-After](Before-After.PNG)
+
+
 ## Project Structure
 ### Introduction
 - Definition and importance of image restoration
