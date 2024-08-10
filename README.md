@@ -1,4 +1,4 @@
-# IDeep Learning Image restoration Project with DnCNN (Deep Convolutional Neural Network)
+# Deep Learning Image restoration Project with DnCNN (Deep Convolutional Neural Network)
 [Please refer to the full Project Here](https://github.com/anasbelmessid1/Image-Restoration/blob/b7dc2c331cade00f7aaefae267d63853033aaa29/DeepLearning-ImageRestoration.pdf)
 
 ## Project Overview
