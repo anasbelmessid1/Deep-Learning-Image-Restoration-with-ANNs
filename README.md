@@ -2,18 +2,7 @@
 [Please refer to the PDF of the Project Here](https://github.com/anasbelmessid1/Image-Restoration/blob/b7dc2c331cade00f7aaefae267d63853033aaa29/DeepLearning-ImageRestoration.pdf)
 
 ## Project Overview
-This project focuses on image restoration using advanced deep learning techniques. The main goal is to enhance and restore the quality of degraded images through the implementation of state-of-the-art deep learning models. The project was developed as part of an academic requirement at the University Euromed of Fez.
-
-## Project Contributors
-- Anas Belmessid
-- Monsef Berjaoui
-- Kaoutar Lakdim
-- Chaimae Biyaye
-- Manal El Kassim
-- Olaya Latoubi
-
-Supervised by:
-- Dr. Alae Ammour
+This project focuses on image restoration using advanced deep learning techniques. The main goal is to enhance and restore the quality of degraded images through the implementation of state-of-the-art deep learning models.
 
 ## Abstract
 The project introduces robust image denoising models such as DnCNN (Deep Convolutional Neural Network). These models leverage deep network architectures comprising multiple convolutional layers, batch normalization, and ReLU activation to effectively learn and remove intricate noise patterns from input images.
